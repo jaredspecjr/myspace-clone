@@ -75,10 +75,17 @@ body{
 .interests{
   display: flex;
   flex-wrap: wrap;
+  border: solid 2px #6699cc;
+  flex-direction: row;
+
 }
 .category{
   width: 20%;
+  background-color: #b1d0f0;
+
 }
 .list{
   width: 80%;
+  background-color: #d5e8fb;
+
 }
